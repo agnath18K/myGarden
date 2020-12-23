@@ -34,10 +34,10 @@
 #include <NTPClient.h>
 #include <WiFiUdp.h>
 
-#define WIFI_SSID "X18"
-#define WIFI_PASSWORD "rty8p20wb@x18"
-#define FIREBASE_HOST "mygarden-18-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "On6x5FcYxmpKAHeLfQT13PqDw5r2PX04RUS6q9h9"
+#define WIFI_SSID "YOUR WIFI SSID"
+#define WIFI_PASSWORD "YOUR WIFI PASSWORD"
+#define FIREBASE_HOST "FIREBASE PROJECT URL"
+#define FIREBASE_AUTH "FIREBASE SECRET KEY"
 #define sensorPin A0
 
 FirebaseData firebaseData;
